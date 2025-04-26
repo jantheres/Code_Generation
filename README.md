@@ -1,0 +1,1 @@
+Built a Streamlit-based Code Generator Chatbot using Google’s Generative AI (Gemini 1.5 Flash model). Users can interact by selecting a programming language (Python, C, Java, C++) and providing a prompt. The chatbot generates code in real-time, offering a seamless, interactive code generation experience with syntax-highlighted results.
